@@ -20,3 +20,15 @@ import random
 
 for i in range(count):
     print(random.randint(0,i))
+
+
+# Comparison Operators
+a=5
+b=5
+print(a==b)
+print(a!=b)
+print(a>b)
+print(a<b)
+print(a>=b)
+print(a<=b)
+
