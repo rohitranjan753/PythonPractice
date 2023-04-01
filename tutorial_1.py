@@ -15,3 +15,8 @@ print(message)
 count = int(input("Enter the count you want to display"))
 for i in range(count):
     print("Rohit")
+
+import random
+
+for i in range(count):
+    print(random.randrange(0,i))
