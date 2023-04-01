@@ -10,3 +10,4 @@ name=input("Enter the name")
 # message="Hello Mr. "+name+" Your age is "+age   #This will throw error as it's expecting string instead of an integer
 
 message="Hello Mr. "+name+" Your age is "+str(age)
+print(message)
