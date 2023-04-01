@@ -19,4 +19,4 @@ for i in range(count):
 import random
 
 for i in range(count):
-    print(random.randrange(0,i))
+    print(random.randint(0,i))
