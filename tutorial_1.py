@@ -13,3 +13,5 @@ message="Hello Mr. "+name+" Your age is "+str(age)
 print(message)
 
 count = int(input("Enter the count you want to display"))
+for i in range(count):
+    print("Rohit")
